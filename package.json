@@ -1,0 +1,25 @@
+{
+  "name": "ronkou",
+  "version": "1.0.0",
+  "description": "sotsusei ronkou",
+  "main": "index.js",
+  "scripts": {
+  "gulp":"gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomoyanonymous/ronkou.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomoyanonymous/ronkou/issues"
+  },
+  "dependencies": {
+    "gulp": "https://github.com/gulpjs/gulp.git#4.0",
+    "gulp-notify": "",
+    "gulp-plumber": "",
+    "gulp-shell": ""
+  },
+  "homepage": "https://github.com/tomoyanonymous/ronkou#readme"
+}
