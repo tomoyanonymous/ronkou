@@ -4,7 +4,12 @@
   "description": "sotsusei ronkou",
   "main": "index.js",
   "scripts": {
-  "gulp":"gulp"
+    "start": "watch 'npm run compile' md",
+    "pandoc": "pandoc md/document.md -f markdown+hard_line_breaks+footnotes -o tex/document_section.tex --chapters",
+    "platex": "platex -halt-on-error -synctex=1 -output-directory=dvi tex/manuscript",
+    "dvi": "dvipdfmx -o pdf/document.pdf dvi/manuscript.dvi",
+    "openwithatom": "atom pdf/document.pdf",
+    "compile": "npm run pandoc;npm run platex;npm run dvi; npm run openwithatom"
   },
   "repository": {
     "type": "git",
@@ -21,5 +26,8 @@
     "gulp-plumber": "",
     "gulp-shell": ""
   },
-  "homepage": "https://github.com/tomoyanonymous/ronkou#readme"
+  "homepage": "https://github.com/tomoyanonymous/ronkou#readme",
+  "devDependencies": {
+    "watch": "^0.19.1"
+  }
 }
