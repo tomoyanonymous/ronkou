@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "watch 'npm run compile' md",
-    "pandoc": "pandoc md/document.md -f markdown+hard_line_breaks+footnotes -o tex/document_section.tex --chapters",
+    "pandoc": "pandoc md/document.md -f markdown+hard_line_breaks+footnotes -o tex/document_section.tex --chapters --bibliography=tex/citation.bib",
     "platex": "platex -halt-on-error -synctex=1 -output-directory=dvi tex/manuscript",
     "dvi": "dvipdfmx -o pdf/document.pdf dvi/manuscript.dvi",
     "openwithatom": "atom pdf/document.pdf",
