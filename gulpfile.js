@@ -16,10 +16,7 @@ var compile =  function() {
     .pipe(plumber({
       errorHandler: notify.onError("Error: <%= error.message %>")
     }))
-    .pipe(shell('pandoc md/document.md -f markdown+hard_line_breaks+footnotes -o tex/document_section.tex' , options))
-    .pipe(shell('platex -halt-on-error -synctex=1 -output-directory=dvi tex/manuscript ',options))
-    .pipe(shell('dvipdfmx -o pdf/document.pdf dvi/manuscript.dvi '))
-    .pipe(shell('atom pdf/document.pdf'));
+    .pipe(shell('npm run compile'));
     }
 
 var watch = function(){
