@@ -10,7 +10,7 @@
     "dvi": "dvipdfmx -o pdf/document.pdf dvi/manuscript.dvi",
     "openwithatom": "atom pdf/document.pdf",
     "clean":"rm -f dvi/manuscript.aux",
-    "compile": "npm run pandoc;npm run platex;npm run dvi; npm run openwithatom"
+    "compile": "npm run pandoc;npm run platex;npm run dvi"
   },
   "repository": {
     "type": "git",
