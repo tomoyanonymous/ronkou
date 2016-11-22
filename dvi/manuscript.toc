@@ -1,26 +1,27 @@
 \contentsline {chapter}{\numberline {第1章}序論}{2}{chapter.1}
 \contentsline {section}{\numberline {1.1}動機と問題意識}{2}{section.1.1}
-\contentsline {section}{\numberline {1.2}メディア考古学という学問アプローチ}{2}{section.1.2}
-\contentsline {section}{\numberline {1.3}本論考の構成}{3}{section.1.3}
-\contentsline {chapter}{\numberline {第2章}音響遅延線という装置について}{4}{chapter.2}
-\contentsline {section}{\numberline {2.1}概要}{4}{section.2.1}
-\contentsline {section}{\numberline {2.2}技術解説}{4}{section.2.2}
-\contentsline {section}{\numberline {2.3}誕生から淘汰されるまでの時代の技術的移り変わり}{5}{section.2.3}
-\contentsline {chapter}{\numberline {第3章}作品概要}{6}{chapter.3}
-\contentsline {section}{\numberline {3.1}前作品「Acoustic Delay (⇔) Memory」について}{6}{section.3.1}
-\contentsline {section}{\numberline {3.2}送れ\textbar {}遅れ/post\textbar {}pastの解説}{6}{section.3.2}
-\contentsline {section}{\numberline {3.3}比較と考察}{7}{section.3.3}
-\contentsline {chapter}{\numberline {第4章}制作手順と技術的解説}{8}{chapter.4}
-\contentsline {section}{\numberline {4.1}実際の制作スケジュール}{8}{section.4.1}
-\contentsline {section}{\numberline {4.2}制作に用いられた技術}{8}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}使える技術と使えない技術}{8}{subsection.4.2.1}
-\contentsline {chapter}{\numberline {第5章}制作のプロセス―メディア考古学との交わり}{9}{chapter.5}
-\contentsline {section}{\numberline {5.1}メディア考古学とは}{9}{section.5.1}
-\contentsline {section}{\numberline {5.2}デジタル記憶装置はメディア考古学で掘れるのか}{9}{section.5.2}
-\contentsline {section}{\numberline {5.3}メディアアートと呼ばれるモノとの交わり}{10}{section.5.3}
-\contentsline {section}{\numberline {5.4}メディアアートにおける本作品の立ち位置}{11}{section.5.4}
-\contentsline {chapter}{\numberline {第6章}まとめ}{12}{chapter.6}
-\contentsline {section}{\numberline {6.1}今回作った作品の持ちうる意味}{12}{section.6.1}
-\contentsline {section}{\numberline {6.2}今回の作品制作の行為の持ちうる意味}{12}{section.6.2}
-\contentsline {section}{\numberline {6.3}結び}{12}{section.6.3}
-\contentsline {chapter}{参考文献}{13}{chapter*.2}
+\contentsline {section}{\numberline {1.2}メディアアートをどう考察するべきか？}{3}{section.1.2}
+\contentsline {section}{\numberline {1.3}メディア考古学という学問アプローチ}{3}{section.1.3}
+\contentsline {section}{\numberline {1.4}本論考の構成}{4}{section.1.4}
+\contentsline {chapter}{\numberline {第2章}音響遅延線という装置について}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}概要}{5}{section.2.1}
+\contentsline {section}{\numberline {2.2}技術解説}{5}{section.2.2}
+\contentsline {section}{\numberline {2.3}誕生から淘汰されるまでの時代の技術的移り変わり}{6}{section.2.3}
+\contentsline {chapter}{\numberline {第3章}作品概要}{7}{chapter.3}
+\contentsline {section}{\numberline {3.1}前作品「Acoustic Delay (⇔) Memory」について}{7}{section.3.1}
+\contentsline {section}{\numberline {3.2}送れ\textbar {}遅れ/post\textbar {}pastの解説}{7}{section.3.2}
+\contentsline {section}{\numberline {3.3}比較と考察}{8}{section.3.3}
+\contentsline {chapter}{\numberline {第4章}制作手順と技術的解説}{9}{chapter.4}
+\contentsline {section}{\numberline {4.1}実際の制作スケジュール}{9}{section.4.1}
+\contentsline {section}{\numberline {4.2}制作に用いられた技術}{9}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}使える技術と使えない技術}{9}{subsection.4.2.1}
+\contentsline {chapter}{\numberline {第5章}メディア考古学的メディアアート制作}{10}{chapter.5}
+\contentsline {section}{\numberline {5.1}メディア考古学とは}{10}{section.5.1}
+\contentsline {section}{\numberline {5.2}デジタル記憶装置はメディア考古学で掘れるのか}{10}{section.5.2}
+\contentsline {section}{\numberline {5.3}聴覚、音響再生産文化から見る音響遅延線}{11}{section.5.3}
+\contentsline {chapter}{\numberline {第6章}メディア考古学的メディアアート考察}{12}{chapter.6}
+\contentsline {section}{\numberline {6.1}メディアアートと呼ばれるモノとの交わり}{12}{section.6.1}
+\contentsline {section}{\numberline {6.2}メディアアート史における本作品の立ち位置}{13}{section.6.2}
+\contentsline {chapter}{\numberline {第7章}まとめ}{14}{chapter.7}
+\contentsline {section}{\numberline {7.1}結び}{14}{section.7.1}
+\contentsline {chapter}{参考文献}{15}{chapter*.2}
