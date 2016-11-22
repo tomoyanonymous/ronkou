@@ -5,12 +5,12 @@
   "main": "index.js",
   "scripts": {
     "start": "watch 'npm run compile' md",
-    "pandoc": "pandoc md/document.md -f markdown+hard_line_breaks+footnotes -o tex/document_section.tex --chapters --bibliography=tex/citation.bibtex --csl tex/ieee.csl",
+    "pandoc": "pandoc md/document.md -f markdown+hard_line_breaks+footnotes+link_attributes+implicit_figures -o tex/document_section.tex --chapters --bibliography=tex/citation.bibtex --csl tex/ieee.csl",
     "platex": "platex -halt-on-error -synctex=1 -output-directory=dvi tex/manuscript",
     "dvi": "dvipdfmx -o pdf/document.pdf dvi/manuscript.dvi",
     "openwithatom": "atom pdf/document.pdf",
     "clean":"rm -f dvi/manuscript.aux",
-    "compile": "npm run pandoc;npm run platex;npm run dvi"
+    "compile": "npm run pandoc&&npm run platex&&npm run dvi"
   },
   "repository": {
     "type": "git",
