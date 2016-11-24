@@ -10,7 +10,9 @@
     "dvi": "dvipdfmx -o pdf/document.pdf dvi/manuscript.dvi",
     "openwithatom": "atom pdf/document.pdf",
     "clean":"rm -f dvi/manuscript.aux",
-    "compile": "npm run pandoc&&npm run platex&&npm run dvi"
+    "count" :"texcount -char -jp tex/document_section.tex | grep 'Letters in text'",
+    "compile": "npm run pandoc&&npm run platex&&npm run dvi&& npm run count"
+
   },
   "repository": {
     "type": "git",
