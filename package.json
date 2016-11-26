@@ -5,13 +5,14 @@
   "main": "index.js",
   "scripts": {
     "start": "watch 'npm run compile' md",
-    "pandoc": "pandoc md/document.md -f markdown+hard_line_breaks+footnotes+link_attributes+implicit_figures -o tex/document_section.tex --chapters --bibliography=tex/citation.bibtex --csl tex/ieee.csl",
+    "pandoc": "pandoc md/document.md -f markdown+hard_line_breaks+footnotes+link_attributes+implicit_figures -o tex/document_section.tex --chapters --biblatex --bibliography=tex/citation.bib --csl=tex/ieee.csl",
+    "bib":"biber --bblencoding=utf8 -u -U --output_safechars dvi/manuscript",
     "platex": "platex -halt-on-error -synctex=1 -output-directory=dvi tex/manuscript",
     "dvi": "dvipdfmx -o pdf/document.pdf dvi/manuscript.dvi",
     "openwithatom": "atom pdf/document.pdf",
-    "clean":"rm -f dvi/manuscript.aux",
+    "clean":"rm -f dvi/manuscript.aux dvi/manuscript.bbl",
     "count" :"texcount -char -jp tex/document_section.tex | grep 'Letters in text'",
-    "compile": "npm run pandoc&&npm run platex&&npm run dvi&& npm run count"
+    "compile": "npm run pandoc&&npm run bib && npm run platex&&npm run dvi&& npm run count"
 
   },
   "repository": {
