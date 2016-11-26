@@ -46,24 +46,24 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.2.2}読み上げによる仮想遅延線メモリー}{12}{subsection.4.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {第5章}メディア考古学的メディアアート制作}{13}{chapter.5}
+\contentsline {chapter}{\numberline {第5章}メディア考古学的メディアアート史考察}{13}{chapter.5}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5.1}メディア考古学とは}{13}{section.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.2}デジタル記憶装置はメディア考古学で掘れるのか}{14}{section.5.2}
+\contentsline {section}{\numberline {5.2}メディアアートは如何に考察されるべきか？}{14}{section.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.2.1}デジタル記憶装置に対する文化的言及}{14}{subsection.5.2.1}
+\contentsline {section}{\numberline {5.3}本論考における作品考察のアプローチ}{15}{section.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.2.2}音響遅延線メモリー開発者自身による言及}{15}{subsection.5.2.2}
+\contentsline {chapter}{\numberline {第6章}メディア考古学的メディアアート制作}{16}{chapter.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.3}メディア考古学的アプローチでのメディアアート-城一裕らの「車輪の再発明プロジェクト」から}{15}{section.5.3}
+\contentsline {section}{\numberline {6.1}デジタル記憶装置はメディア考古学で掘れるのか}{16}{section.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {第6章}メディア考古学的メディアアート史考察}{17}{chapter.6}
+\contentsline {subsection}{\numberline {6.1.1}デジタル記憶装置に対する文化的言及}{16}{subsection.6.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.1}メディアアートと呼ばれるモノとの交わり}{17}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.2}音響遅延線メモリーの歴史の読み替え}{17}{subsection.6.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.2}メディアアート史に作品を位置づけることは可能か}{18}{section.6.2}
+\contentsline {section}{\numberline {6.2}メディア考古学的アプローチでのメディアアート-城一裕らの「車輪の再発明プロジェクト」から}{18}{section.6.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {第7章}まとめ}{19}{chapter.7}
+\contentsline {chapter}{\numberline {第7章}まとめ}{21}{chapter.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.1}結び}{19}{section.7.1}
+\contentsline {section}{\numberline {7.1}結び}{21}{section.7.1}

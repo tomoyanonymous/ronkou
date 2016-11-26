@@ -61,6 +61,46 @@
       \field{title}{The Audible Past Cultural Origin of Sound Reproduction}
       \field{year}{2002}
     \endentry
+    \entry{eckertinterview}{online}{}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labeltitlesource}{title}
+      \field{note}{筆者訳}
+      \field{title}{Interview with J. Presper Eckert}
+      \field{urlday}{26}
+      \field{urlmonth}{11}
+      \field{urlyear}{2016}
+      \field{year}{1988}
+      \verb{url}
+      \verb http://americanhistory.si.edu/comphist/eckert.htm
+      \endverb
+    \endentry
+    \entry{eckert1953survey}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8c505fa2679ae83ac3ebd582bf97ea20}{%
+           family={Eckert},
+           family_i={E\bibinitperiod},
+           given={John\bibnamedelima Presper},
+           given_i={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{8c505fa2679ae83ac3ebd582bf97ea20}
+      \strng{fullhash}{8c505fa2679ae83ac3ebd582bf97ea20}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the IRE}
+      \field{note}{筆者訳}
+      \field{number}{10}
+      \field{title}{A survey of digital computer memory systems}
+      \field{volume}{41}
+      \field{year}{1953}
+      \field{pages}{1393\bibrangedash 1406}
+      \range{pages}{14}
+    \endentry
     \entry{iamas:RIWP}{online}{}
       \field{sortinit}{0}
       \field{sortinithash}{990108227b3316c02842d895999a0165}

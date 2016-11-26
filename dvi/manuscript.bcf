@@ -2028,7 +2028,9 @@
   <bcf:section number="0">
     <bcf:citekey order="1">huhtamo:mediaarcheology</bcf:citekey>
     <bcf:citekey order="2">stern:audiblepast</bcf:citekey>
-    <bcf:citekey order="3">iamas:RIWP</bcf:citekey>
+    <bcf:citekey order="3">eckertinterview</bcf:citekey>
+    <bcf:citekey order="4">eckert1953survey</bcf:citekey>
+    <bcf:citekey order="5">iamas:RIWP</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="none/global" type="entry" sortscheme="none" sortnamekeyscheme="global">
   <bcf:sorting>
