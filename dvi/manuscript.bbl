@@ -19,6 +19,20 @@
 
 \refsection{0}
   \sortlist[entry]{none/global}
+    \entry{ohta:mediaarch}{online}{}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labeltitlesource}{title}
+      \field{month}{3}
+      \field{title}{メディア芸術カレントコンテンツ メディアアートへの視座（2）----メディア考古学--}
+      \field{urlday}{25}
+      \field{urlmonth}{11}
+      \field{urlyear}{2016}
+      \field{year}{2016}
+      \verb{url}
+      \verb http://mediag.jp/column/2016/03/22/2.html
+      \endverb
+    \endentry
     \entry{huhtamo:mediaarcheology}{book}{}
       \name{author}{1}{}{%
         {{hash=4c69dfa0fd0497570441eeab55f48f8a}{%
@@ -39,6 +53,124 @@
       \field{isbn}{9784757103542}
       \field{title}{メディア考古学 過去・現在・未来の対話のために}
       \field{year}{2015}
+    \endentry
+    \entry{eckert1953memory}{patent}{}
+      \name{author}{2}{}{%
+        {{hash=75087ca34746b8c57c16a1b6fae8c7a6}{%
+           family={Eckert},
+           family_i={E\bibinitperiod},
+           given={J.J.P.},
+           given_i={J\bibinitperiod}}}%
+        {{hash=8b19f7dc053be17d80065ee46ff70f1e}{%
+           family={Mauchly},
+           family_i={M\bibinitperiod},
+           given={J.W.},
+           given_i={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Google Patents}%
+      }
+      \strng{namehash}{ce74b08c2c9743fd3a9b8817f2184320}
+      \strng{fullhash}{ce74b08c2c9743fd3a9b8817f2184320}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{02~24}
+      \field{number}{US2629827}
+      \field{title}{Memory system}
+      \field{year}{1953}
+      \verb{url}
+      \verb https://www.google.com/patents/US2629827
+      \endverb
+    \endentry
+    \entry{invent_computer}{book}{}
+      \name{author}{1}{}{%
+        {{hash=565c18b4cf2f0480fa2b09d5116619a2}{%
+           family={徹},
+           family_i={徹\bibinitperiod},
+           given={能澤},
+           given_i={能\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {テクノレヴュー}%
+      }
+      \strng{namehash}{565c18b4cf2f0480fa2b09d5116619a2}
+      \strng{fullhash}{565c18b4cf2f0480fa2b09d5116619a2}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{4902403005}
+      \field{title}{コンピュータの発明 ―エンジニアリングの軌跡―}
+      \field{year}{2003}
+    \endentry
+    \entry{Orlarey2004faust}{article}{}
+      \name{author}{3}{}{%
+        {{hash=885980162a0dc0958247ebe1b70b0a9d}{%
+           family={Orlarey},
+           family_i={O\bibinitperiod},
+           given={Y.},
+           given_i={Y\bibinitperiod}}}%
+        {{hash=00d028a09e4ee03bb93f339295495667}{%
+           family={Fober},
+           family_i={F\bibinitperiod},
+           given={D.},
+           given_i={D\bibinitperiod}}}%
+        {{hash=4db9e00c1479cb37c05586b517f3da77}{%
+           family={Letz},
+           family_i={L\bibinitperiod},
+           given={S.},
+           given_i={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag}%
+      }
+      \strng{namehash}{7ec8202e746ef71a93bb4f3735f8251b}
+      \strng{fullhash}{7ec8202e746ef71a93bb4f3735f8251b}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1432-7643}
+      \field{journaltitle}{Soft Comput.}
+      \field{month}{09}
+      \field{number}{9}
+      \field{title}{Syntactical and Semantical Aspects of Faust}
+      \field{volume}{8}
+      \field{year}{2004}
+      \field{pages}{623\bibrangedash 632}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1007/s00500-004-0388-1
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1007/s00500-004-0388-1
+      \endverb
+      \keyw{Dataflow,Functional programming,Real-time,Signal processing,compiler}
+    \endentry
+    \entry{smith2012signal}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=ef8d0c138caffb1d3301c65ccfb27407}{%
+           family={Smith},
+           family_i={S\bibinitperiod},
+           given={Julius},
+           given_i={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{ef8d0c138caffb1d3301c65ccfb27407}
+      \strng{fullhash}{ef8d0c138caffb1d3301c65ccfb27407}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Linux Audio Conference}
+      \field{title}{Signal Processing Libraries for Faust}
+      \field{year}{2012}
+      \field{pages}{153\bibrangedash 161}
+      \range{pages}{9}
     \endentry
     \entry{stern:audiblepast}{book}{}
       \name{author}{1}{}{%
@@ -65,7 +197,7 @@
       \field{sortinit}{0}
       \field{sortinithash}{990108227b3316c02842d895999a0165}
       \field{labeltitlesource}{title}
-      \field{note}{筆者訳}
+      \field{note}{抜粋部分筆者訳}
       \field{title}{Interview with J. Presper Eckert}
       \field{urlday}{26}
       \field{urlmonth}{11}
@@ -93,13 +225,60 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Proceedings of the IRE}
-      \field{note}{筆者訳}
+      \field{note}{抜粋部分筆者訳}
       \field{number}{10}
       \field{title}{A survey of digital computer memory systems}
       \field{volume}{41}
       \field{year}{1953}
       \field{pages}{1393\bibrangedash 1406}
       \range{pages}{14}
+    \endentry
+    \entry{eckstein1996j}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9d831213dac44c22ac6e4d802a1de2c1}{%
+           family={Eckstein},
+           family_i={E\bibinitperiod},
+           given={Peter},
+           given_i={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{9d831213dac44c22ac6e4d802a1de2c1}
+      \strng{fullhash}{9d831213dac44c22ac6e4d802a1de2c1}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Annals of the History of Computing}
+      \field{number}{1}
+      \field{title}{J. Presper Eckert}
+      \field{volume}{18}
+      \field{year}{1996}
+      \field{pages}{25\bibrangedash 44}
+      \range{pages}{20}
+    \endentry
+    \entry{presper1942light}{patent}{}
+      \name{author}{1}{}{%
+        {{hash=f034771fce22e181c4ecc6dcb7863a78}{%
+           family={Presper},
+           family_i={P\bibinitperiod},
+           given={E.J.J.},
+           given_i={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Google Patents}%
+      }
+      \strng{namehash}{f034771fce22e181c4ecc6dcb7863a78}
+      \strng{fullhash}{f034771fce22e181c4ecc6dcb7863a78}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{05~19}
+      \field{number}{US2283545}
+      \field{title}{Light modulating method and apparatus}
+      \field{year}{1942}
+      \verb{url}
+      \verb https://www.google.com/patents/US2283545
+      \endverb
     \endentry
     \entry{iamas:RIWP}{online}{}
       \field{sortinit}{0}
@@ -112,6 +291,32 @@
       \field{year}{2015}
       \verb{url}
       \verb http://www.iamas.ac.jp/15362
+      \endverb
+    \endentry
+    \entry{mtrlzng:RIWP}{online}{}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labeltitlesource}{title}
+      \field{title}{mtrlzng II ｜情報科学芸術大学院大学 （IAMAS） 車輪の再発明プロジェクト マテリアライジング展 - 情報と物質とそのあいだ}
+      \field{urlday}{27}
+      \field{urlmonth}{11}
+      \field{urlyear}{2016}
+      \field{year}{2014}
+      \verb{url}
+      \verb http://materializing.org/14_iamas/
+      \endverb
+    \endentry
+    \entry{soundstudies3}{online}{}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labeltitlesource}{title}
+      \field{title}{音響文化研究会トークイベント 交差する音の技術と音の文化 3「紙のレコード」の作られ方}
+      \field{urlday}{27}
+      \field{urlmonth}{11}
+      \field{urlyear}{2016}
+      \field{year}{2016}
+      \verb{url}
+      \verb http://soundstudies.jp/t03/
       \endverb
     \endentry
   \endsortlist

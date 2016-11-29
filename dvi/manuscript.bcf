@@ -2026,11 +2026,21 @@
     <bcf:datasource type="file" datatype="bibtex">tex/citation.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">huhtamo:mediaarcheology</bcf:citekey>
-    <bcf:citekey order="2">stern:audiblepast</bcf:citekey>
-    <bcf:citekey order="3">eckertinterview</bcf:citekey>
-    <bcf:citekey order="4">eckert1953survey</bcf:citekey>
-    <bcf:citekey order="5">iamas:RIWP</bcf:citekey>
+    <bcf:citekey order="1">ohta:mediaarch</bcf:citekey>
+    <bcf:citekey order="2">huhtamo:mediaarcheology</bcf:citekey>
+    <bcf:citekey order="3">eckert1953memory</bcf:citekey>
+    <bcf:citekey order="4">invent_computer</bcf:citekey>
+    <bcf:citekey order="5">Orlarey2004faust</bcf:citekey>
+    <bcf:citekey order="6">smith2012signal</bcf:citekey>
+    <bcf:citekey order="7">stern:audiblepast</bcf:citekey>
+    <bcf:citekey order="8">eckertinterview</bcf:citekey>
+    <bcf:citekey order="9">eckert1953survey</bcf:citekey>
+    <bcf:citekey order="10">eckstein1996j</bcf:citekey>
+    <bcf:citekey order="11">presper1942light</bcf:citekey>
+    <bcf:citekey order="12">iamas:RIWP</bcf:citekey>
+    <bcf:citekey order="13">mtrlzng:RIWP</bcf:citekey>
+    <bcf:citekey order="14">iamas:RIWP</bcf:citekey>
+    <bcf:citekey order="15">soundstudies3</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="none/global" type="entry" sortscheme="none" sortnamekeyscheme="global">
   <bcf:sorting>

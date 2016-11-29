@@ -10,7 +10,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.4}本論考の構成}{4}{section.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {第2章}音響遅延線という装置について}{5}{chapter.2}
+\contentsline {chapter}{\numberline {第2章}音響遅延線メモリーという装置について}{5}{chapter.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.1}概要}{5}{section.2.1}
 \defcounter {refsection}{0}\relax 
@@ -18,17 +18,25 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.3}誕生から淘汰されるまでの時代の技術的移り変わり}{6}{section.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.4}技術的特異性}{6}{section.2.4}
+\contentsline {section}{\numberline {2.4}技術的特異性}{7}{section.2.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {第3章}作品概要}{8}{chapter.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.1}前作品「Acoustic Delay (⇔) Memory」について}{8}{section.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}「送れ\textbar {}遅れ/post\textbar {}past」の解説}{8}{section.3.2}
+\contentsline {subsection}{\numberline {3.1.1}展示の基本情報}{8}{subsection.3.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.2}作品概要}{8}{subsection.3.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}卒業制作「送れ\textbar {}遅れ/post\textbar {}past」の解説}{9}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.1}展示の基本情報}{9}{subsection.3.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.2}作品概要}{9}{subsection.3.2.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.3}比較と考察}{10}{section.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {第4章}制作手順と技術的解説}{11}{chapter.4}
+\contentsline {chapter}{\numberline {第4章}「送れ\textbar {}遅れ/post\textbar {}past」制作手順と技術的解説}{11}{chapter.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.1}実際の制作スケジュール}{11}{section.4.1}
 \defcounter {refsection}{0}\relax 
@@ -44,26 +52,28 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{使える技術と使えない技術}{12}{section*.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.2}読み上げによる仮想遅延線メモリー}{12}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.2}読み上げによる仮想遅延線メモリー}{13}{subsection.4.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {第5章}メディア考古学的メディアアート史考察}{13}{chapter.5}
+\contentsline {chapter}{\numberline {第5章}メディア考古学的メディアアート史考察法}{14}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.1}メディア考古学とは}{13}{section.5.1}
+\contentsline {section}{\numberline {5.1}メディア考古学とは}{14}{section.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.2}メディアアートは如何に考察されるべきか？}{14}{section.5.2}
+\contentsline {section}{\numberline {5.2}メディアアートは如何に考察されるべきか？}{15}{section.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.3}本論考における作品考察のアプローチ}{15}{section.5.3}
+\contentsline {subsection}{\numberline {5.2.1}メディア考古学的なメディアアート史の考察}{15}{subsection.5.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {第6章}メディア考古学的メディアアート制作}{16}{chapter.6}
+\contentsline {chapter}{\numberline {第6章}メディア考古学的メディアアート制作考察}{18}{chapter.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.1}デジタル記憶装置はメディア考古学で掘れるのか}{16}{section.6.1}
+\contentsline {section}{\numberline {6.1}デジタル記憶装置はメディア考古学で掘れるのか}{18}{section.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.1.1}デジタル記憶装置に対する文化的言及}{16}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.1}デジタル記憶装置に対する文化的言及}{18}{subsection.6.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.1.2}音響遅延線メモリーの歴史の読み替え}{17}{subsection.6.1.2}
+\contentsline {subsection}{\numberline {6.1.2}音響遅延線メモリーの誕生の背景を探る}{19}{subsection.6.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.2}メディア考古学的アプローチでのメディアアート-城一裕らの「車輪の再発明プロジェクト」から}{18}{section.6.2}
+\contentsline {section}{\numberline {6.2}今回の作品はメディア考古学的アプローチであったのか(1)}{21}{section.6.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {第7章}まとめ}{21}{chapter.7}
+\contentsline {section}{\numberline {6.3}メディア考古学的アプローチでのメディアアート-城一裕らの「車輪の再発明プロジェクト」から}{22}{section.6.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.1}結び}{21}{section.7.1}
+\contentsline {section}{\numberline {6.4}今回の作品はメディア考古学的アプローチであったのか(2)}{24}{section.6.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {第7章}終わりに}{25}{chapter.7}
