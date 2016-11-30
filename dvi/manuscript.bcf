@@ -2032,15 +2032,17 @@
     <bcf:citekey order="4">invent_computer</bcf:citekey>
     <bcf:citekey order="5">Orlarey2004faust</bcf:citekey>
     <bcf:citekey order="6">smith2012signal</bcf:citekey>
-    <bcf:citekey order="7">stern:audiblepast</bcf:citekey>
-    <bcf:citekey order="8">eckertinterview</bcf:citekey>
-    <bcf:citekey order="9">eckert1953survey</bcf:citekey>
-    <bcf:citekey order="10">eckstein1996j</bcf:citekey>
-    <bcf:citekey order="11">presper1942light</bcf:citekey>
-    <bcf:citekey order="12">iamas:RIWP</bcf:citekey>
-    <bcf:citekey order="13">mtrlzng:RIWP</bcf:citekey>
-    <bcf:citekey order="14">iamas:RIWP</bcf:citekey>
-    <bcf:citekey order="15">soundstudies3</bcf:citekey>
+    <bcf:citekey order="7">o_audiblepast</bcf:citekey>
+    <bcf:citekey order="8">huhtamo:mediaarcheology</bcf:citekey>
+    <bcf:citekey order="9">eckertinterview</bcf:citekey>
+    <bcf:citekey order="10">eckert1953survey</bcf:citekey>
+    <bcf:citekey order="11">eckstein1996j</bcf:citekey>
+    <bcf:citekey order="12">presper1942light</bcf:citekey>
+    <bcf:citekey order="13">iamas:RIWP</bcf:citekey>
+    <bcf:citekey order="14">mtrlzng:RIWP</bcf:citekey>
+    <bcf:citekey order="15">iamas:RIWP</bcf:citekey>
+    <bcf:citekey order="16">soundstudies3</bcf:citekey>
+    <bcf:citekey order="17">stern:audiblepast</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="none/global" type="entry" sortscheme="none" sortnamekeyscheme="global">
   <bcf:sorting>
