@@ -1,0 +1,16 @@
+[0] Config.pm:340> INFO - This is Biber 2.4
+[1] Config.pm:343> INFO - Logfile is 'dvi/document.blg'
+[98] biber-darwin:287> INFO - === 金 12  2, 2016, 18:17:16
+[127] Biber.pm:347> INFO - Reading 'dvi/document.bcf'
+[323] Biber.pm:741> INFO - Found 14 citekeys in bib section 0
+[377] Biber.pm:3150> INFO - Processing section 0
+[574] Biber.pm:3307> INFO - Looking for bibtex format file 'tex/citation.bib' for section 0
+[594] bibtex.pm:1124> INFO - Decoding LaTeX character macros into UTF-8
+[597] bibtex.pm:985> INFO - Found BibTeX data source 'tex/citation.bib'
+[1249] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1249] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1249] Biber.pm:3027> INFO - Sorting list 'none/global' of type 'entry' with scheme 'none' and locale 'en-US'
+[1249] Biber.pm:3031> INFO - No sort tailoring available for locale 'en-US'
+[1267] bbl.pm:519> INFO - Writing 'dvi/document.bbl' with encoding 'UTF-8'
+[1267] bbl.pm:520> INFO - Converting UTF-8 to TeX macros on output to .bbl
+[1275] bbl.pm:615> INFO - Output to dvi/document.bbl

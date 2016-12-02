@@ -1,0 +1,33 @@
+\providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\documentclass[report]{jsbook}
+%\usepackage{amsmath,amssymb}
+\usepackage{bm}
+\usepackage[dvipdfmx]{graphicx}
+\graphicspath{{../}}
+
+% \usepackage[top=60truemm,bottom=30truemm,left=25truemm,right=25truemm]{geometry}
+
+\usepackage[backend=biber,style=ieee]{biblatex}
+
+\usepackage{ascmac}
+\usepackage[dvipdfmx]{hyperref}
+
+\title{$title$}
+
+\author{$author$}
+
+\addbibresource{tex/citation.bib}
+
+\begin{document}
+
+\maketitle
+
+\tableofcontents
+
+$body$
+
+
+\printbibliography[title = 参考文献]
+
+\end{document}

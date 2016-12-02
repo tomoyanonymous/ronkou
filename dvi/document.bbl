@@ -319,25 +319,6 @@
       \verb http://soundstudies.jp/t03/
       \endverb
     \endentry
-    \entry{stern:audiblepast}{book}{skipbib=true}
-      \name{author}{1}{}{%
-        {{hash=b17617c821d105ec638c5d39d01ff610}{%
-           family={中川克志、金子智太郎、谷口文和},
-           family_i={中\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {インスクリプト}%
-      }
-      \strng{namehash}{b17617c821d105ec638c5d39d01ff610}
-      \strng{fullhash}{b17617c821d105ec638c5d39d01ff610}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{9784900997585}
-      \field{title}{聞こえくる過去　音響再生産の文化的起源}
-      \field{year}{2015}
-    \endentry
   \endsortlist
 \endrefsection
 \endinput

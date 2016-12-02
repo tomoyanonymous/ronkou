@@ -5,13 +5,14 @@
   "main": "index.js",
   "scripts": {
     "start": "watch 'npm run compile' md",
-    "pandoc": "pandoc md/document.md -f markdown+hard_line_breaks+footnotes+link_attributes+implicit_figures -o tex/document_section.tex --chapters --biblatex --bibliography=tex/citation.bib --csl=tex/ieee.csl",
-    "bib":"biber --bblencoding=utf8 -u -U --output_safechars dvi/manuscript",
-    "platex": "platex -halt-on-error -synctex=1 -output-directory=dvi tex/manuscript",
-    "dvi": "dvipdfmx -o pdf/document.pdf dvi/manuscript.dvi",
+    "pandoc": "pandoc md/document.md -f markdown+hard_line_breaks+footnotes+link_attributes+implicit_figures+yaml_metadata_block -o tex/document.tex --chapters --biblatex  --data-dir=/Users/Tomoya/Geidai/ronkou --template=pandoc_template.tex",
+    "gen_docx":"pandoc tex/document.tex -o docx/document.docx",
+    "bib":"biber --bblencoding=utf8 -u -U --output_safechars dvi/document",
+    "platex": "platex -halt-on-error -synctex=1 -output-directory=dvi tex/document",
+    "dvi": "dvipdfmx -o pdf/document.pdf dvi/document.dvi",
     "openwithatom": "atom pdf/document.pdf",
-    "clean":"rm -f dvi/manuscript.aux dvi/manuscript.bbl",
-    "count" :"texcount -char -jp tex/document_section.tex | grep 'Letters in text'",
+    "clean":"rm -f dvi/*.aux dvi/*.bbl",
+    "count" :"texcount -char -jp tex/document.tex | grep 'Letters in text'",
     "compile": "npm run pandoc&&npm run bib && npm run platex&&npm run dvi&& npm run count"
 
   },
