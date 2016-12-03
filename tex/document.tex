@@ -1,22 +1,21 @@
 \providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 
-\documentclass[report]{jsbook}
+\documentclass[a4paper,report]{jsbook}
 %\usepackage{amsmath,amssymb}
 \usepackage{bm}
 \usepackage[dvipdfmx]{graphicx}
-\graphicspath{{../}}
+%\graphicspath{{tex}}
 
-% \usepackage[top=60truemm,bottom=30truemm,left=25truemm,right=25truemm]{geometry}
+\usepackage[truedimen,mag=1200,top=30truemm,bottom=20truemm,left=25truemm,right=25truemm]{geometry}
 
 \usepackage[backend=biber,style=ieee]{biblatex}
 
 \usepackage{ascmac}
 \usepackage[dvipdfmx]{hyperref}
 
-\title{音響装置作品「送れ｜遅れ/post｜past」の制作からの考察
-―メディア考古学的視点からのメディアアート}
+\title{\Large 音響装置作品「送れ｜遅れ/post｜past」の制作からの考察\\――メディア考古学的視点からのメディアアート――}
 
-\author{東京芸術大学 音楽環境創造科 松浦知也}
+\author{2013年度入学\\学籍番号 2113241\\松浦 知也}
 
 \addbibresource{tex/citation.bib}
 
@@ -126,6 +125,12 @@ Calculatorの略であり、名前にも現れている）、UNIVAC
 
 時間を一定間隔で区切り、その間に超音波のパルスを発する/発しないを保存したい二進数データの1/0に対応させ、スピーカーから出力する。超音波のパルスは水銀中の音速、1451.4
 m/sで伝わりマイクまで到達する。マイクで検出した信号を、回路の中で、パルスが存在すれば1、存在しなければ0という処理を施すと元々送信した二進数データが復元される。それをもう一度同じスピーカーに送信すると、同じデータ列が循環し続けることとなる。最大で保存できるデータは区切る時間の間隔（データの送信レート）、マイクとスピーカー間の距離、音速を決定する温度に依存する。
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=1.00000\textwidth]{./img/adm_setsumei.pdf}
+\caption{音響遅延線のシステム概略図}
+\end{figure}
 
 音波の媒体として水銀を使っているのは送信、受信に使われるピエゾ素子との音響インピーダンスが近い事によって、マイクでの受信時に反射波が生じにくく、データにエラーが少ない、エネルギー効率がよい事が理由である。
 
@@ -275,7 +280,7 @@ Docs上の音声入力ボタンをクリックする。\\
 OS上の標準読み上げ機能を使い読み上げる。\\
 こうすることで、タイミングが合うとPC4が読み上げた文章をPC5で音声入力でドキュメント上に入力し、それをPC5が読み上げ再びPC4が音声入力し\ldots{}という状態が繰り返される。
 
-\includegraphics[width=1.00000\textwidth]{img/postpast1.jpg}~
+\includegraphics[width=1.00000\textwidth]{./img/postpast1.jpg}~
 
 \section{比較と考察}\label{ux6bd4ux8f03ux3068ux8003ux5bdf}
 
@@ -316,14 +321,24 @@ Memory」と「送れ\textbar{}遅れ/post\textbar{}past」における大きな
 
 \subsubsection{信号処理のブロック・ダイヤグラム}\label{ux4fe1ux53f7ux51e6ux7406ux306eux30d6ux30edux30c3ux30afux30c0ux30a4ux30e4ux30b0ux30e9ux30e0}
 
-イラレとかで書きます。。。
+図3に示すのが音響遅延線部分の信号処理の概略図である。より詳しい実装は付録に記載した。
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.75000\textwidth]{./img/adm2_diagram.pdf}
+\caption{音響遅延線部分のシグナル・ダイヤグラム}
+\end{figure}
 
 \subsubsection{位相偏移変調}\label{ux4f4dux76f8ux504fux79fbux5909ux8abf}
 
 装置が2台に分かれるにあたって、従来の音響遅延線の仕組みをそのまま使おうとすると、マイクから受信した時に相手の信号と自分が発信した信号が混ざってしまうという問題点がある。今回はそれを2台の装置での使用周波数帯域を変更することで混線しないようにした。\\
 周波数を変更するための変調方式には、載せる搬送波の振幅に信号を対応させる振幅偏移変調(ASK)、周波数変化に対応させる周波数偏移変調(FSK)、位相の変化に対応させる位相偏移変調(PSK)、振幅と位相を両方変化させる直行位相振幅変調(QAM)など様々な方式があるが、今回はQPSK、もしくは4QAMと呼ばれる、2bitのデータを位相の45°、135°、225°、315°の4状態に割り当てる方式を採用した。
 
-（図）
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=1.00000\textwidth]{./img/qpsk_setsumei.pdf}
+\caption{QPSKの概念図}
+\end{figure}
 
 図のように、基準となる位相から45°、135°、225°、315°がそれぞれデータの00、01、10、11に対応する。
 
@@ -340,8 +355,7 @@ Faustを選択した理由としては構想当初の段階でスマートフォ
 その点においてFasutは並列、直列、入れ子構造など様々な接続法において接続数を変える時にパラメータの変更のみで済むという面がある。\\
 また基本的な発振器（オシレーター）やフィルターなど信号処理のモジュールが基本ライブラリとして提供されており、その詳細なパラメータの追い込みもMaxやPuredataよりも詳細かつ簡潔に設定できるところも強みの一つである。\autocites[
 ]{Orlarey2004faust}{smith2012signal}\\
-結果的にはFaustはすべてMax上で動作させる形になったが、Faustで記述したコードは最適化された形でコンパイルされるため（正確なベンチマークなどの比較はしていないが）比較的低負荷で動作させることが可能であったなど、幾つかのメリットはあったと考える。
-
+結果的にはFaustはすべてMax上で動作させる形になったが、Faustで記述したコードは最適化された形でコンパイルされるため（正確なベンチマークなどの比較はしていないが）比較的低負荷で動作させることが可能であったなど、幾つかのメリットはあったと考える。\\
 今回の作品で実際に使用されたFaustのコードとMaxのパッチは付録として添付した。
 
 \subsubsection{使える技術と使えない技術}\label{ux4f7fux3048ux308bux6280ux8853ux3068ux4f7fux3048ux306aux3044ux6280ux8853}
@@ -364,6 +378,12 @@ Docs文書を開いている。\\
 
 上書きのインターフェースはNode.js\footnote{jsの拡張版}で実装されていて、PCの中にローカルサーバを立ち上げブラウザでアクセスすることでインターフェースが表示される。writeボタンがクリックされるとデータをOSC\footnote{Open
   Sound Controlのこと}メッセージとしてCycling74'Maxに送信する。Max内でデータを受信するとFaustのプログラム上のパラメータを変更し、遅延線内にデータを挿入し上書きする。
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=1.00000\textwidth]{./img/admpart_diagram.pdf}
+\caption{PC1、2内のソフトウェア同士の関係を表したシステム図}
+\end{figure}
 
 \subsection{読み上げによる仮想遅延線メモリー}\label{ux8aadux307fux4e0aux3052ux306bux3088ux308bux4eeeux60f3ux9045ux5ef6ux7ddaux30e1ux30e2ux30eaux30fc}
 
@@ -394,11 +414,23 @@ Docs上の音声入力機能と、Macの標準音声読み上げ機能、読み�
 こちらでPuredataを利用したのは読み上げのためのApplescript実行と音声区間検出のためのロジックを一つのプログラムに統合できることが主な理由であり、Cycling'74
 Maxでも不可能ではない\footnote{ただしMaxには標準でシェルコマンドを実行できるオブジェクトが入っておらず、aka.shellと呼ばれる外部オブジェクトを実行できる環境構築が必要である。Puredataではggeeという外部ライブラリのなかにshellオブジェクトが存在し、インストールもPuredata内で実行でき環境構築が素早く済む。}。
 
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=1.00000\textwidth]{./img/yomiage_diagram.pdf}
+\caption{PC4、5内のソフトウェア同士の関係を表したシステム図}
+\end{figure}
+
 \subsection{音響遅延線→読み上げ部分}\label{ux97f3ux97ffux9045ux5ef6ux7ddaux8aadux307fux4e0aux3052ux90e8ux5206}
 
 最後にPC3の部分は、PC1と2で構成されている遅延線のデータを自動的に受信し、そのデータの変化を検知するとそのデータをUTF-16にエンコードし、画面上に文字を表示するとともに、読み上げを試みる\footnote{ぜんぶが読み上げられるわけではない。}。\\
 データの検知に使用されているコードはPC1,2で使用されているMax＋Faustの組み合わせで、内部のプログラムもほぼ共通している。\\
 データの変化を検知したところでMax上でそのデータをOSCメッセージとしてNode.jsのプログラムに送り、受信したデータをUTF-16でエンコードしブラウザ画面に表示するとともに、読み上げのシェルコマンドを実行する。
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=1.00000\textwidth]{./img/qam2speech_diagram.pdf}
+\caption{PC3内のソフトウェア同士の関係を表したシステム図}
+\end{figure}
 
 \subsection{展示中の実際とバグについて}\label{ux5c55ux793aux4e2dux306eux5b9fux969bux3068ux30d0ux30b0ux306bux3064ux3044ux3066}
 
