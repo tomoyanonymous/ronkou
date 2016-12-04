@@ -11,9 +11,10 @@
     "platex": "platex -halt-on-error -synctex=1 -output-directory=dvi tex/document",
     "dvi": "dvipdfmx -o pdf/document.pdf dvi/document.dvi",
     "openwithatom": "atom pdf/document.pdf",
-    "clean":"rm -f dvi/*.aux dvi/*.bbl",
+    "clean":"rm -f dvi/*.*",
     "count" :"texcount -char -jp tex/document.tex | grep 'Letters in text'",
-    "compile": "npm run pandoc&&npm run bib && npm run platex&&npm run dvi&& npm run count"
+    "compile": "npm run pandoc&&npm run bib && npm run platex&&npm run dvi&& npm run count",
+    "recompile":"npm run clean && npm run pandoc && npm run platex && npm run bib && npm run platex && npm run dvi && npm run count"
 
   },
   "repository": {
