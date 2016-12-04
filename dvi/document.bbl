@@ -139,17 +139,15 @@
     \endentry
     \entry{invent_computer}{book}{}
       \name{author}{1}{}{%
-        {{hash=565c18b4cf2f0480fa2b09d5116619a2}{%
-           family={徹},
-           family_i={徹\bibinitperiod},
-           given={能澤},
-           given_i={能\bibinitperiod}}}%
+        {{hash=649733d903ec88a2327556f000338461}{%
+           family={能澤徹},
+           family_i={能\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {テクノレヴュー}%
       }
-      \strng{namehash}{565c18b4cf2f0480fa2b09d5116619a2}
-      \strng{fullhash}{565c18b4cf2f0480fa2b09d5116619a2}
+      \strng{namehash}{649733d903ec88a2327556f000338461}
+      \strng{fullhash}{649733d903ec88a2327556f000338461}
       \field{sortinit}{0}
       \field{sortinithash}{990108227b3316c02842d895999a0165}
       \field{labelnamesource}{author}
@@ -157,6 +155,52 @@
       \field{isbn}{4902403005}
       \field{title}{コンピュータの発明 ―エンジニアリングの軌跡―}
       \field{year}{2003}
+    \endentry
+    \entry{ishii:memory}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7cbd9bfa8ae98dabbad8d357cfd0849f}{%
+           family={石井治},
+           family_i={石\bibinitperiod}}}%
+      }
+      \strng{namehash}{7cbd9bfa8ae98dabbad8d357cfd0849f}
+      \strng{fullhash}{7cbd9bfa8ae98dabbad8d357cfd0849f}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{計測と制御}
+      \field{number}{5}
+      \field{title}{記憶装置について}
+      \field{volume}{7}
+      \field{year}{1968}
+      \field{pages}{316\bibrangedash 326}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.11499/sicejl1962.7.316
+      \endverb
+    \endentry
+    \entry{andrew2015a}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=a391b484b1a961dbf21e17ab613d9b44}{%
+           family={McPherson},
+           family_i={M\bibinitperiod},
+           given={Andrew},
+           given_i={A\bibinitperiod}}}%
+        {{hash=9ae9d3bf97760dec1dfbf1f5ce24a9d7}{%
+           family={Zappi},
+           family_i={Z\bibinitperiod},
+           given={Victor},
+           given_i={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{a8bbe7dc6001338bef012ded767697cd}
+      \strng{fullhash}{a8bbe7dc6001338bef012ded767697cd}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Audio Engineering Society 138th Convention}
+      \field{title}{An Environment for Submillisecond-Latency Audio and Sensor Processing on BeagleBone Black}
+      \field{year}{2015}
     \endentry
     \entry{Orlarey2004faust}{article}{}
       \name{author}{3}{}{%

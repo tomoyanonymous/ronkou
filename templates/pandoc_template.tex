@@ -33,9 +33,12 @@
 \usepackage{ascmac}
 \usepackage[dvipdfmx]{hyperref}
 
-\title{\Large $title$\\$subtitle$}
+\DeclareRobustCommand\ddash{\hbox to 2zw{---\hss ---}}% \let\doubledash\ddash
 
-\author{$nyuugaku$\\$gakuseki$\\$author$}
+
+\title{\Large $title$\newline{\ddash}$subtitle${\ddash}}
+
+\author{$shozoku$\\$nyuugaku$\\$gakuseki$\\$author$}
 
 \addbibresource{tex/citation.bib}
 
