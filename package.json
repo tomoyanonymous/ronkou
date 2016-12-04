@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "watch 'npm run compile' md",
-    "pandoc": "pandoc md/document.md -f markdown+hard_line_breaks+footnotes+link_attributes+implicit_figures+yaml_metadata_block --to=latex --chapters --biblatex  --data-dir=/Users/Tomoya/Geidai/ronkou --template=pandoc_template.tex | sed -e 's/svg/pdf/g' | sed -e 's!../img!./img!g' > tex/document.tex ",
+    "pandoc": "pandoc md/document.md -f markdown+hard_line_breaks+footnotes+link_attributes+implicit_figures+yaml_metadata_block --to=latex --chapters --filter pandoc-fignos --biblatex  --data-dir=/Users/Tomoya/Geidai/ronkou --template=pandoc_template.tex | sed -e 's/svg/pdf/g' | sed -e 's!../img!./img!g' > tex/document.tex ",
     "gen_docx":"pandoc tex/document.tex -o docx/document.docx",
     "bib":"biber --bblencoding=utf8 -u -U --output_safechars dvi/document",
     "platex": "platex -halt-on-error -synctex=1 -output-directory=dvi tex/document",
