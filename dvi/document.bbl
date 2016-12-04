@@ -20,8 +20,16 @@
 \refsection{0}
   \sortlist[entry]{none/global}
     \entry{ohta:mediaarch}{online}{}
+      \name{author}{1}{}{%
+        {{hash=8893702ae7caa3470d98fe52157762ae}{%
+           family={太田純貴},
+           family_i={太\bibinitperiod}}}%
+      }
+      \strng{namehash}{8893702ae7caa3470d98fe52157762ae}
+      \strng{fullhash}{8893702ae7caa3470d98fe52157762ae}
       \field{sortinit}{0}
       \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{3}
       \field{title}{メディア芸術カレントコンテンツ メディアアートへの視座（2）----メディア考古学--}
@@ -41,6 +49,11 @@
            given={Erkki},
            given_i={E\bibinitperiod}}}%
       }
+      \name{translator}{1}{}{%
+        {{hash=8893702ae7caa3470d98fe52157762ae}{%
+           family={太田純貴},
+           family_i={太\bibinitperiod}}}%
+      }
       \list{publisher}{1}{%
         {NTT出版}%
       }
@@ -53,6 +66,46 @@
       \field{isbn}{9784757103542}
       \field{title}{メディア考古学 過去・現在・未来の対話のために}
       \field{year}{2015}
+    \endentry
+    \entry{ipsjmusium}{online}{}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labeltitlesource}{title}
+      \field{title}{IPSJ コンピュータ博物館}
+      \field{urlday}{25}
+      \field{urlmonth}{11}
+      \field{urlyear}{2016}
+      \field{year}{2015}
+      \verb{url}
+      \verb http://museum.ipsj.or.jp/
+      \endverb
+    \endentry
+    \entry{von1993first}{article}{}
+      \name{author}{2}{}{%
+        {{hash=cac77d340259c934ec7632336bce2d0b}{%
+           family={Von\bibnamedelima Neumann},
+           family_i={V\bibinitperiod\bibinitdelim N\bibinitperiod},
+           given={John},
+           given_i={J\bibinitperiod}}}%
+        {{hash=273db2403091a200a5d1b4d6d239acc2}{%
+           family={Godfrey},
+           family_i={G\bibinitperiod},
+           given={Michael\bibnamedelima D},
+           given_i={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{9df0d23626f419b334c650c0893e15d0}
+      \strng{fullhash}{9df0d23626f419b334c650c0893e15d0}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Annals of the History of Computing}
+      \field{number}{4}
+      \field{title}{First Draft of a Report on the EDVAC}
+      \field{volume}{15}
+      \field{year}{1993}
+      \field{pages}{27\bibrangedash 75}
+      \range{pages}{49}
     \endentry
     \entry{eckert1953memory}{patent}{}
       \name{author}{2}{}{%
@@ -171,6 +224,25 @@
       \field{year}{2012}
       \field{pages}{153\bibrangedash 161}
       \range{pages}{9}
+    \endentry
+    \entry{ochi:underwater}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=acaaf5d950ffdacb1d9a237c37da7b23}{%
+           family={越智寛},
+           family_i={越\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {電気通信大学}%
+      }
+      \strng{namehash}{acaaf5d950ffdacb1d9a237c37da7b23}
+      \strng{fullhash}{acaaf5d950ffdacb1d9a237c37da7b23}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{広帯域音源を用いた海中での高速ディジタルデータ伝送に関する研究}
+      \field{type}{phdthesis}
+      \field{year}{2009}
     \endentry
     \entry{o_audiblepast}{book}{}
       \name{author}{1}{}{%
@@ -307,8 +379,16 @@
       \endverb
     \endentry
     \entry{soundstudies3}{online}{}
+      \name{author}{1}{}{%
+        {{hash=2a976f8923f25dd286bca510b5e5f170}{%
+           family={城一裕},
+           family_i={城\bibinitperiod}}}%
+      }
+      \strng{namehash}{2a976f8923f25dd286bca510b5e5f170}
+      \strng{fullhash}{2a976f8923f25dd286bca510b5e5f170}
       \field{sortinit}{0}
       \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{音響文化研究会トークイベント 交差する音の技術と音の文化 3「紙のレコード」の作られ方}
       \field{urlday}{27}
@@ -317,6 +397,30 @@
       \field{year}{2016}
       \verb{url}
       \verb http://soundstudies.jp/t03/
+      \endverb
+    \endentry
+    \entry{leah:slide}{online}{}
+      \name{author}{1}{}{%
+        {{hash=e54cc48eb3ce5feff7a4c538df4cf67b}{%
+           family={Buechley},
+           family_i={B\bibinitperiod},
+           given={Leah},
+           given_i={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{e54cc48eb3ce5feff7a4c538df4cf67b}
+      \strng{fullhash}{e54cc48eb3ce5feff7a4c538df4cf67b}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Presented at :Sketching in Hardware 2011}
+      \field{title}{Improvement? and Sideways Invention: Alternative Technology Narratives}
+      \field{urlday}{25}
+      \field{urlmonth}{11}
+      \field{urlyear}{2016}
+      \field{year}{2011}
+      \verb{url}
+      \verb http://www.sketching11.com/presentations/leahB_sketching_11.pdf
       \endverb
     \endentry
     \entry{stern:audiblepast}{book}{skipbib=true}
