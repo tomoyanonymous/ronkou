@@ -1,16 +1,16 @@
 [0] Config.pm:340> INFO - This is Biber 2.4
 [0] Config.pm:343> INFO - Logfile is 'dvi/document.blg'
-[64] biber-darwin:287> INFO - === 月 12  5, 2016, 17:39:23
-[117] Biber.pm:347> INFO - Reading 'dvi/document.bcf'
-[220] Biber.pm:741> INFO - Found 23 citekeys in bib section 0
-[263] Biber.pm:3150> INFO - Processing section 0
-[378] Biber.pm:3307> INFO - Looking for bibtex format file 'tex/citation.bib' for section 0
-[381] bibtex.pm:1124> INFO - Decoding LaTeX character macros into UTF-8
-[383] bibtex.pm:985> INFO - Found BibTeX data source 'tex/citation.bib'
-[908] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[908] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[908] Biber.pm:3027> INFO - Sorting list 'none/global' of type 'entry' with scheme 'none' and locale 'en-US'
-[908] Biber.pm:3031> INFO - No sort tailoring available for locale 'en-US'
-[939] bbl.pm:519> INFO - Writing 'dvi/document.bbl' with encoding 'UTF-8'
-[940] bbl.pm:520> INFO - Converting UTF-8 to TeX macros on output to .bbl
-[955] bbl.pm:615> INFO - Output to dvi/document.bbl
+[52] biber-darwin:287> INFO - === 月 12  5, 2016, 19:01:53
+[69] Biber.pm:347> INFO - Reading 'dvi/document.bcf'
+[170] Biber.pm:741> INFO - Found 23 citekeys in bib section 0
+[182] Biber.pm:3150> INFO - Processing section 0
+[232] Biber.pm:3307> INFO - Looking for bibtex format file 'tex/citation.bib' for section 0
+[235] bibtex.pm:1124> INFO - Decoding LaTeX character macros into UTF-8
+[237] bibtex.pm:985> INFO - Found BibTeX data source 'tex/citation.bib'
+[969] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[969] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[969] Biber.pm:3027> INFO - Sorting list 'none/global' of type 'entry' with scheme 'none' and locale 'en-US'
+[970] Biber.pm:3031> INFO - No sort tailoring available for locale 'en-US'
+[995] bbl.pm:519> INFO - Writing 'dvi/document.bbl' with encoding 'UTF-8'
+[995] bbl.pm:520> INFO - Converting UTF-8 to TeX macros on output to .bbl
+[1012] bbl.pm:615> INFO - Output to dvi/document.bbl

@@ -179,6 +179,93 @@
       \verb 10.11499/sicejl1962.7.316
       \endverb
     \endentry
+    \entry{eckertinterview}{online}{}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labeltitlesource}{title}
+      \field{note}{抜粋部分筆者訳}
+      \field{title}{Interview with J. Presper Eckert}
+      \field{urlday}{26}
+      \field{urlmonth}{11}
+      \field{urlyear}{2016}
+      \field{year}{1988}
+      \verb{url}
+      \verb http://americanhistory.si.edu/comphist/eckert.htm
+      \endverb
+    \endentry
+    \entry{eckert1953survey}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8c505fa2679ae83ac3ebd582bf97ea20}{%
+           family={Eckert},
+           family_i={E\bibinitperiod},
+           given={John\bibnamedelima Presper},
+           given_i={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{8c505fa2679ae83ac3ebd582bf97ea20}
+      \strng{fullhash}{8c505fa2679ae83ac3ebd582bf97ea20}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the IRE}
+      \field{note}{抜粋部分筆者訳}
+      \field{number}{10}
+      \field{title}{A survey of digital computer memory systems}
+      \field{volume}{41}
+      \field{year}{1953}
+      \field{pages}{1393\bibrangedash 1406}
+      \range{pages}{14}
+    \endentry
+    \entry{eckstein1996j}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9d831213dac44c22ac6e4d802a1de2c1}{%
+           family={Eckstein},
+           family_i={E\bibinitperiod},
+           given={Peter},
+           given_i={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{9d831213dac44c22ac6e4d802a1de2c1}
+      \strng{fullhash}{9d831213dac44c22ac6e4d802a1de2c1}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Annals of the History of Computing}
+      \field{number}{1}
+      \field{title}{J. Presper Eckert}
+      \field{volume}{18}
+      \field{year}{1996}
+      \field{pages}{25\bibrangedash 44}
+      \range{pages}{20}
+    \endentry
+    \entry{presper1942light}{patent}{}
+      \name{author}{1}{}{%
+        {{hash=f034771fce22e181c4ecc6dcb7863a78}{%
+           family={Presper},
+           family_i={P\bibinitperiod},
+           given={E.J.J.},
+           given_i={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Google Patents}%
+      }
+      \strng{namehash}{f034771fce22e181c4ecc6dcb7863a78}
+      \strng{fullhash}{f034771fce22e181c4ecc6dcb7863a78}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{05~19}
+      \field{number}{US2283545}
+      \field{title}{Light modulating method and apparatus}
+      \field{year}{1942}
+      \verb{url}
+      \verb https://www.google.com/patents/US2283545
+      \endverb
+    \endentry
     \entry{andrew2015a}{inproceedings}{}
       \name{author}{2}{}{%
         {{hash=a391b484b1a961dbf21e17ab613d9b44}{%
@@ -341,93 +428,6 @@
       \field{addendum}{邦訳: \fullcite{stern:audiblepast}}
       \field{title}{The Audible Past Cultural Origin of Sound Reproduction}
       \field{year}{2002}
-    \endentry
-    \entry{eckertinterview}{online}{}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labeltitlesource}{title}
-      \field{note}{抜粋部分筆者訳}
-      \field{title}{Interview with J. Presper Eckert}
-      \field{urlday}{26}
-      \field{urlmonth}{11}
-      \field{urlyear}{2016}
-      \field{year}{1988}
-      \verb{url}
-      \verb http://americanhistory.si.edu/comphist/eckert.htm
-      \endverb
-    \endentry
-    \entry{eckert1953survey}{article}{}
-      \name{author}{1}{}{%
-        {{hash=8c505fa2679ae83ac3ebd582bf97ea20}{%
-           family={Eckert},
-           family_i={E\bibinitperiod},
-           given={John\bibnamedelima Presper},
-           given_i={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {IEEE}%
-      }
-      \strng{namehash}{8c505fa2679ae83ac3ebd582bf97ea20}
-      \strng{fullhash}{8c505fa2679ae83ac3ebd582bf97ea20}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Proceedings of the IRE}
-      \field{note}{抜粋部分筆者訳}
-      \field{number}{10}
-      \field{title}{A survey of digital computer memory systems}
-      \field{volume}{41}
-      \field{year}{1953}
-      \field{pages}{1393\bibrangedash 1406}
-      \range{pages}{14}
-    \endentry
-    \entry{eckstein1996j}{article}{}
-      \name{author}{1}{}{%
-        {{hash=9d831213dac44c22ac6e4d802a1de2c1}{%
-           family={Eckstein},
-           family_i={E\bibinitperiod},
-           given={Peter},
-           given_i={P\bibinitperiod}}}%
-      }
-      \strng{namehash}{9d831213dac44c22ac6e4d802a1de2c1}
-      \strng{fullhash}{9d831213dac44c22ac6e4d802a1de2c1}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{IEEE Annals of the History of Computing}
-      \field{number}{1}
-      \field{title}{J. Presper Eckert}
-      \field{volume}{18}
-      \field{year}{1996}
-      \field{pages}{25\bibrangedash 44}
-      \range{pages}{20}
-    \endentry
-    \entry{presper1942light}{patent}{}
-      \name{author}{1}{}{%
-        {{hash=f034771fce22e181c4ecc6dcb7863a78}{%
-           family={Presper},
-           family_i={P\bibinitperiod},
-           given={E.J.J.},
-           given_i={E\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Google Patents}%
-      }
-      \strng{namehash}{f034771fce22e181c4ecc6dcb7863a78}
-      \strng{fullhash}{f034771fce22e181c4ecc6dcb7863a78}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{month}{05~19}
-      \field{number}{US2283545}
-      \field{title}{Light modulating method and apparatus}
-      \field{year}{1942}
-      \verb{url}
-      \verb https://www.google.com/patents/US2283545
-      \endverb
     \endentry
     \entry{iamas:RIWP}{online}{}
       \field{sortinit}{0}
