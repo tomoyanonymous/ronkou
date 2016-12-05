@@ -2037,19 +2037,21 @@
     <bcf:citekey order="9">Orlarey2004faust</bcf:citekey>
     <bcf:citekey order="10">smith2012signal</bcf:citekey>
     <bcf:citekey order="11">ochi:underwater</bcf:citekey>
-    <bcf:citekey order="12">ohta:mediaarch</bcf:citekey>
-    <bcf:citekey order="13">o_audiblepast</bcf:citekey>
-    <bcf:citekey order="14">huhtamo:mediaarcheology</bcf:citekey>
-    <bcf:citekey order="15">eckertinterview</bcf:citekey>
-    <bcf:citekey order="16">eckert1953survey</bcf:citekey>
-    <bcf:citekey order="17">eckstein1996j</bcf:citekey>
-    <bcf:citekey order="18">presper1942light</bcf:citekey>
-    <bcf:citekey order="19">iamas:RIWP</bcf:citekey>
-    <bcf:citekey order="20">mtrlzng:RIWP</bcf:citekey>
-    <bcf:citekey order="21">iamas:RIWP</bcf:citekey>
-    <bcf:citekey order="22">soundstudies3</bcf:citekey>
-    <bcf:citekey order="23">leah:slide</bcf:citekey>
-    <bcf:citekey order="24">stern:audiblepast</bcf:citekey>
+    <bcf:citekey order="12">wright2003opensound</bcf:citekey>
+    <bcf:citekey order="13">ohta:mediaarch</bcf:citekey>
+    <bcf:citekey order="14">o_audiblepast</bcf:citekey>
+    <bcf:citekey order="15">huhtamo:mediaarcheology</bcf:citekey>
+    <bcf:citekey order="16">eckertinterview</bcf:citekey>
+    <bcf:citekey order="17">eckert1953survey</bcf:citekey>
+    <bcf:citekey order="18">eckstein1996j</bcf:citekey>
+    <bcf:citekey order="19">presper1942light</bcf:citekey>
+    <bcf:citekey order="20">iamas:RIWP</bcf:citekey>
+    <bcf:citekey order="21">mtrlzng:RIWP</bcf:citekey>
+    <bcf:citekey order="22">iamas:RIWP</bcf:citekey>
+    <bcf:citekey order="23">fab:tanaka</bcf:citekey>
+    <bcf:citekey order="24">soundstudies3</bcf:citekey>
+    <bcf:citekey order="25">leah:slide</bcf:citekey>
+    <bcf:citekey order="26">stern:audiblepast</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="none/global" type="entry" sortscheme="none" sortnamekeyscheme="global">
   <bcf:sorting>

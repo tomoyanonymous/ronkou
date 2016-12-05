@@ -288,6 +288,39 @@
       \field{type}{phdthesis}
       \field{year}{2009}
     \endentry
+    \entry{wright2003opensound}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=718c9057e43580a3053d0a86f519d9af}{%
+           family={Wright},
+           family_i={W\bibinitperiod},
+           given={Matthew},
+           given_i={M\bibinitperiod}}}%
+        {{hash=dd0bb47c1ce1d810deb49bc87c9f2351}{%
+           family={Freed},
+           family_i={F\bibinitperiod},
+           given={Adrian},
+           given_i={A\bibinitperiod}}}%
+        {{hash=a476754aaeea6ee79073861ee32e6662}{%
+           family={Momeni},
+           family_i={M\bibinitperiod},
+           given={Ali},
+           given_i={A\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {National University of Singapore}%
+      }
+      \strng{namehash}{03b06878884c02d5b32e523f60d6f7ef}
+      \strng{fullhash}{03b06878884c02d5b32e523f60d6f7ef}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2003 conference on New interfaces for musical expression}
+      \field{title}{Opensound control: State of the art 2003}
+      \field{year}{2003}
+      \field{pages}{153\bibrangedash 160}
+      \range{pages}{8}
+    \endentry
     \entry{o_audiblepast}{book}{}
       \name{author}{1}{}{%
         {{hash=555af391478821a1e8b0a3cbe2d59b0b}{%
@@ -421,6 +454,30 @@
       \verb{url}
       \verb http://materializing.org/14_iamas/
       \endverb
+    \endentry
+    \entry{fab:tanaka}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5627ecedf290c48df0e3151dfcc59feb}{%
+           family={NeilGershenfeld、田中浩也},
+           family_i={N\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=7007b2601d3da129b296924428d2e5d1}{%
+           family={糸川洋},
+           family_i={糸\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {オライリー・ジャパン}%
+      }
+      \strng{namehash}{5627ecedf290c48df0e3151dfcc59feb}
+      \strng{fullhash}{5627ecedf290c48df0e3151dfcc59feb}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9784873115887}
+      \field{title}{Fab ―パーソナルコンピュータからパーソナルファブリケーションへ}
+      \field{year}{2012}
     \endentry
     \entry{soundstudies3}{online}{}
       \name{author}{1}{}{%
