@@ -84,14 +84,14 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6.3}メディア考古学的アプローチでのメディアアート-城一裕らの「車輪の再発明プロジェクト」から}{39}{section.6.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.4}今回の作品はメディア考古学的アプローチであったのか(2)}{40}{section.6.4}
+\contentsline {section}{\numberline {6.4}今回の作品はメディア考古学的アプローチであったのか(2)}{41}{section.6.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6.5}メディア考古学的アプローチに自覚的であるということ}{42}{section.6.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {第7章}結論}{44}{chapter.7}
+\contentsline {chapter}{\numberline {第7章}結論}{45}{chapter.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.1}論点のまとめ}{44}{section.7.1}
+\contentsline {section}{\numberline {7.1}論点のまとめ}{45}{section.7.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.2}観客の不在と作品の記録}{44}{section.7.2}
+\contentsline {section}{\numberline {7.2}観客の不在と作品の記録}{45}{section.7.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.3}終わりに}{46}{section.7.3}
+\contentsline {section}{\numberline {7.3}終わりに}{47}{section.7.3}

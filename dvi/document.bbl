@@ -67,6 +67,25 @@
       \field{title}{メディア考古学 過去・現在・未来の対話のために}
       \field{year}{2015}
     \endentry
+    \entry{invent_computer}{book}{}
+      \name{author}{1}{}{%
+        {{hash=649733d903ec88a2327556f000338461}{%
+           family={能澤徹},
+           family_i={能\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {テクノレヴュー}%
+      }
+      \strng{namehash}{649733d903ec88a2327556f000338461}
+      \strng{fullhash}{649733d903ec88a2327556f000338461}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{4902403005}
+      \field{title}{コンピュータの発明 ―エンジニアリングの軌跡―}
+      \field{year}{2003}
+    \endentry
     \entry{ipsjmusium}{online}{}
       \field{sortinit}{0}
       \field{sortinithash}{990108227b3316c02842d895999a0165}
@@ -136,25 +155,6 @@
       \verb{url}
       \verb https://www.google.com/patents/US2629827
       \endverb
-    \endentry
-    \entry{invent_computer}{book}{}
-      \name{author}{1}{}{%
-        {{hash=649733d903ec88a2327556f000338461}{%
-           family={能澤徹},
-           family_i={能\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {テクノレヴュー}%
-      }
-      \strng{namehash}{649733d903ec88a2327556f000338461}
-      \strng{fullhash}{649733d903ec88a2327556f000338461}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{4902403005}
-      \field{title}{コンピュータの発明 ―エンジニアリングの軌跡―}
-      \field{year}{2003}
     \endentry
     \entry{ishii:memory}{article}{}
       \name{author}{1}{}{%
@@ -544,6 +544,7 @@
       \field{year}{2015}
     \endentry
   \endsortlist
+  \missing{huutamo:mediaarcheology}
 \endrefsection
 \endinput
 
