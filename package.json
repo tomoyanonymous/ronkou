@@ -11,6 +11,7 @@
     "platex": "platex -halt-on-error -synctex=1 -output-directory=dvi tex/document",
     "dvi": "dvipdfmx -o pdf/document.pdf dvi/document.dvi",
     "openwithatom": "atom pdf/document.pdf",
+    "open":"open pdf/docuent.pdf",
     "clean":"rm -f dvi/*.*",
     "count" :"texcount -char -jp tex/document.tex | grep 'Letters in text'",
     "compile": "npm run pandoc&&npm run bib && npm run platex&&npm run dvi&& npm run count",

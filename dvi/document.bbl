@@ -90,7 +90,7 @@
       \field{sortinit}{0}
       \field{sortinithash}{990108227b3316c02842d895999a0165}
       \field{labeltitlesource}{title}
-      \field{title}{IPSJ コンピュータ博物館}
+      \field{title}{{IPSJ} コンピュータ博物館}
       \field{urlday}{25}
       \field{urlmonth}{11}
       \field{urlyear}{2016}
@@ -120,7 +120,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{IEEE Annals of the History of Computing}
       \field{number}{4}
-      \field{title}{First Draft of a Report on the EDVAC}
+      \field{title}{First Draft of a Report on the {EDVAC}}
       \field{volume}{15}
       \field{year}{1993}
       \field{pages}{27\bibrangedash 75}
@@ -446,7 +446,7 @@
       \field{sortinit}{0}
       \field{sortinithash}{990108227b3316c02842d895999a0165}
       \field{labeltitlesource}{title}
-      \field{title}{mtrlzng II ｜情報科学芸術大学院大学 （IAMAS） 車輪の再発明プロジェクト マテリアライジング展 - 情報と物質とそのあいだ}
+      \field{title}{mtrlzng II ｜情報科学芸術大学院大学 （{IAMAS}） 車輪の再発明プロジェクト マテリアライジング展 - 情報と物質とそのあいだ}
       \field{urlday}{27}
       \field{urlmonth}{11}
       \field{urlyear}{2016}
@@ -544,7 +544,6 @@
       \field{year}{2015}
     \endentry
   \endsortlist
-  \missing{huutamo:mediaarcheology}
 \endrefsection
 \endinput
 
