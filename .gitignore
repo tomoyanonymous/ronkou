@@ -1,4 +1,6 @@
 .DS_Store
+./dvi/**
+
 # Logs
 logs
 *.log
