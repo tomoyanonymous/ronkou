@@ -1,5 +1,5 @@
 .DS_Store
-./dvi/*.*
+dvi/*.*
 
 # Logs
 logs
